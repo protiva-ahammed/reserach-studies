@@ -1,2 +1,2 @@
 # reserach-studies
-A collection of materials I think good for the study to reaserach
+A collection of materials for the study to reaserach
